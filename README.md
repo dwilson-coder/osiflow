@@ -1,6 +1,9 @@
 # OSIFlow
 Welcome, I hope you find this tool helpful. Please be sure to share it, fork, and give me a star if you like it. 😊
 
+![OSI Flow](https://raw.githubusercontent.com/dwilson-coder/osiflow/refs/heads/main/og.jpg)
+
+
 ## Project Overview
 OSI Flow is an interactive educational tool developed to help students visualize the network assets at each layer, how packets move through the layers, and what information is added or removed at each layer.
 
